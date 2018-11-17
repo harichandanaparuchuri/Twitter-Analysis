@@ -1,1 +1,3 @@
-R program to 
+R program to read 1500 tweets about the hashtag Data Analytics and make a word cloud visualization. 
+Exported the data in to a CSV file to be used in Tableau for visualizations.
+Comparing both the R and Tableau visualization's results.
